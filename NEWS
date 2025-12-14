@@ -1,3 +1,11 @@
+version 0.8-2
+
+o Prof. John Fox passed away in November 2025.
+
+o Duncan Murdoch has taken over as maintainer.  
+
+o The home for polycor is now <https://github.com/dmurdoch/polycor>. 
+
 version 0.8-1
 
 o Further enhancements to warnings in hetcor() and error reporting in polyserial(); my thanks to Adrian Dusa for changes to his admisc::tryCatchWEM() facilitating these enhancements. 
